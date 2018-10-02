@@ -15,6 +15,7 @@ export default {
 
 <style scoped>
   div {
+    font-family: Arial;
     margin-left: auto;
     margin-right: auto;
     width: 640px;

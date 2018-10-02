@@ -35,7 +35,6 @@ export default new Vuex.Store({
       if (!state.videos.includes(val)) state.videos = [...state.videos, val]
     },
     setRemoveVideo (state, val) {
-      console.log(val)
       state.videos = state.videos.filter((item) => { return item !== val })
     },
     setCurrentVideo (state, val) {

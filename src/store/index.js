@@ -7,8 +7,8 @@ export default new Vuex.Store({
   state: {
     videos: [
       'https://youtu.be/fctMc6SxVFY',
-      'https://www.youtube.com/watch?v=JkhzwBfekFs',
-      'https://www.youtube.com/watch?v=9aQtZ_vqimA'
+      'https://youtu.be/2S5W0ZGfYek',
+      'https://youtu.be/m3zvVGJrTP8'
     ],
     currentVideo: null
   },

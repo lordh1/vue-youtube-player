@@ -25,6 +25,5 @@ export default {
     div {
       width: 95%;
     }
-
   }
 </style>
